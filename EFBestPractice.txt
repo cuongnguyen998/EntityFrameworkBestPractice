@@ -1,0 +1,5 @@
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+Cmd:
+Add-Migration InitialDBCreation
